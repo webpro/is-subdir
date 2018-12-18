@@ -1,0 +1,34 @@
+{
+  "name": "@webpro/is-subdir",
+  "version": "0.0.1",
+  "description": "Check if a directory is a subdirectory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpro/is-subdir.git"
+  },
+  "homepage": "https://github.com/webpro/is-subdir#readme",
+  "bugs": "https://github.com/webpro/is-subdir/issues",
+  "keywords": [
+    "dir",
+    "directory",
+    "sub",
+    "subdir",
+    "subdirectory",
+    "folder",
+    "subfolder",
+    "path",
+    "traversal"
+  ],
+  "author": {
+    "email": "lars@webpro.nl",
+    "name": "Lars Kappert"
+  },
+  "license": "MIT"
+}
